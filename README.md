@@ -7,10 +7,10 @@ Klasičen način (?)
 Survival (vsaka uganka 30s)
 
 Klasičen meni:
-- Start Game -
-- Options -
-- Help -
-- Disclaimer -
+- Start Game
+- Options
+- Help
+- Disclaimer
 
 Več tem:
 - black/white
