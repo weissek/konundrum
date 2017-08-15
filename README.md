@@ -12,6 +12,9 @@ Klasičen meni:
 - Help
 - Disclaimer
 
-Več tem:
-- black/white
-...
+Ideje za temo:
+http://labs.gaidi.ca/rat-brain-atlas/
+
+Vsaki del možganov označuje eno relevantno uganko.
+Ko so vsi rešeni igralec ugotovi, da je podgana.
+Naknaden pobeg iz labirinta ipd (Pinky and Brain)
